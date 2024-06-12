@@ -4,11 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enrypiff" alt="enrypiff" /></a> </p>
 
-🔭 I’m currently working on RAG and LLMs
-
-- [RAG from custom doc](https://github.com/enrypiff/RAG_custom_doc)
+🔭 I’m currently working on LLMs and Computer Vision
 
 - [RAG from custom doc local](https://github.com/enrypiff/RAG_local)
+- [RAG from custom doc](https://github.com/enrypiff/RAG_custom_doc)
+- [Detection of buns and trays in industrial environment](https://github.com/enrypiff/tray_bun_counter)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
