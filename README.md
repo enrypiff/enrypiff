@@ -8,6 +8,8 @@
 - [RAG from custom doc](https://github.com/enrypiff/RAG_custom_doc)
 - [Detection of buns and trays in industrial environment](https://github.com/enrypiff/tray_bun_counter)
 
+And also on an extensive Saas product
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
