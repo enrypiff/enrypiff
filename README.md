@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on LLMs and Computer Vision
 
-- [RAG from custom doc local](https://github.com/enrypiff/RAG_local)
+- [Explainable AI - D-RISE for YOLO](https://github.com/enrypiff/D-RISE_for_YOLO)
 - [RAG from custom doc](https://github.com/enrypiff/RAG_custom_doc)
 - [Detection of buns and trays in industrial environment](https://github.com/enrypiff/tray_bun_counter)
 
